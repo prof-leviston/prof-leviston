@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é Leviston da Silveira
+- 👋 Olá meu nome é **prof-leviston**
 - 👀 Sou professor da rede pública do estado do Paraná
 - 🌱 Laciono a disciplina de Pensamento Computacional para os primeiros anos de duas escolas.
 
