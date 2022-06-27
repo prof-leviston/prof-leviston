@@ -3,7 +3,7 @@
 - 👋 Olá meu nome é **prof-leviston**
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Meu e-mail profissional é leviston.silveira@escola.pr.gov.br
 - 👀 Sou professor da rede pública do estado do Paraná com disciplinas na área de programação.
-- 👀 Venho atuando com programação desde 2010, quando iniciei os estudos e a prática de programação para soluçoes dentro de Bioinformática.
+- 👀 Iniciei os estudos e a prática de programação para soluções dentro de Bioinformática em 2010.
 - 🌱 Atualmente venho trabalhando com as seguintes linguagens de programação: SCRATCH, JAVASCRIPT, HTML5 e CSS3 com ensino na disciplina de Pensamento Computacional.
 
 ![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
