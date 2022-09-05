@@ -4,6 +4,7 @@
 - ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Meu e-mail profissional é leviston.silveira@escola.pr.gov.br
 - 👀 Trabalhando em 2022 com disciplinas na área de programação (pensamento computacional e games-programação)
 - 👀 Iniciei os estudos e a prática de programação para soluções dentro do mestrado em Bioinformática/UFPR(2010).
+- 🌱 Além de programação, atuo lecionando as disciplinas de ciências e biologia na educação básica.
 - 🌱 Atualmente venho trabalhando no ensino das seguintes linguagens de programação com alunos da rede pública do estado do Paraná: SCRATCH, JAVASCRIPT, HTML5, CSS3 e desenvolvendo um projeto de um jogo educacional com alunos do ensino básico com scratch.
 
 ![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
